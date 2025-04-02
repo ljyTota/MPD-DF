@@ -1,0 +1,5 @@
+logging==0.5.1.2
+numpy==1.26.4
+mne==1.8.0  # Required for EDF file reading via mne.io.read_raw_edf()
+re==2.2.1
+scipy==1.13.1  # Required for .mat file I/O via scipy.io.savemat()
