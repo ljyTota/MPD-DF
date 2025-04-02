@@ -7,6 +7,7 @@ The Multimodal Phenotyping Dataset of Driving Fatigue ** (MPD-DF)** is a publicl
 - Single-lead electrocardiogram (ECG)
 - Dual-channel electrooculogram (EOG)
 - Thoracic respiratory effort signals
+
 The supplementary metadata incorporates:
 - Fatigue-associated questionnaire assessment results
 - Expert physician-annotated fatigue level evaluations
